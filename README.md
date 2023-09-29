@@ -82,3 +82,27 @@ Track and assign tasks.
  - Next to the branch that you want to delete, click  .
 
  - If the branch is associated with at least one open pull request, deleting the branch will close the pull requests. Read the warning, then click Delete.
+
+# Merge Branch
+In GitHub, merging is the process of combining changes from one branch into another branch. 
+This is commonly done when you want to incorporate changes made in a feature branch into your main branch.
+
+Here's how to merge branches in GitHub:
+
+- Create a Pull Request (PR): If you're working on a feature branch and want to merge it into the main branch, you'll typically start by creating a pull request. To do this:
+
+ - Go to your repository on GitHub.
+ - Click on the "Pull Requests" tab.
+ - Click the "New Pull Request" button.
+ - Select the base branch (the branch you want to merge your changes into, often "main" or "master").
+ - Select the compare branch (your feature branch).
+ - Click "Create Pull Request."
+
+Review and Discuss Changes: In the pull request, you can review the changes made in the feature branch. You can also discuss the changes with your team, make additional commits if necessary, and address any review comments.
+
+- Merge the Pull Request: Once the changes are reviewed and approved, you can merge the pull request. To do this:
+
+ - Click the "Merge" button.
+ - Choose the merge method (e.g., merge commit, squash and merge, rebase and merge).
+ - Optionally, delete the branch after merging (if you no longer need it).
+ - Click "Confirm Merge."
