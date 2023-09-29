@@ -60,3 +60,25 @@ Track and assign tasks.
  Git provides a Desktop interface named Git Gui.	                            GitHub provides a Desktop interface named GitHub Desktop.
  
  Git competes with CVS, Azure DevOps Server, Subversion, Mercurial, etc.	    GitHub competes with GitLab, Bit Bucket, AWS Code Commit, etc.
+
+# Creating a branch using the branch dropdown
+ - On GitHub.com, navigate to the main page of the repository.
+
+ - Select the  branch dropdown menu, in the file tree view or at the top of the integrated file editor.
+
+ - Optionally, if you want to create the new branch from a branch other than the default branch of the repository, 
+   click another branch, then select the branch dropdown menu again.
+
+ - In the "Find or create a branch..." text field, type a unique name for your new branch, then click Create branch.
+
+
+# Deleting a branch
+  
+ - On GitHub.com, navigate to the main page of the repository.
+
+ - From the file tree view on the left, select the  branch dropdown menu, then click View all branches.
+ You can also find the branch dropdown menu at the top of the integrated file editor.
+
+ - Next to the branch that you want to delete, click  .
+
+ - If the branch is associated with at least one open pull request, deleting the branch will close the pull requests. Read the warning, then click Delete.
