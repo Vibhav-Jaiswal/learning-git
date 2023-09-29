@@ -11,7 +11,7 @@ The version control allows us to track and work together with our team members a
 
 Git was created by Linus Torvalds in 2005 to develop Linux Kernel.
 
-# Github
+# GitHub
 GitHub is a Git repository hosting service.
 
 It offers both distributed version control and source code management (SCM) functionality of Git. 
