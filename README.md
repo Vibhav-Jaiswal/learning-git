@@ -106,3 +106,10 @@ Review and Discuss Changes: In the pull request, you can review the changes made
  - Choose the merge method (e.g., merge commit, squash and merge, rebase and merge).
  - Optionally, delete the branch after merging (if you no longer need it).
  - Click "Confirm Merge."
+
+# Create an issue
+ - Navigate to the main page of the repository on GitHub.com.
+ - Click Issues under your repository name.
+ - Click New issue.
+ - Choose an issue template or click Open a blank issue.
+ - Fill in the details of your issue and click Submit new issue.
